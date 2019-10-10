@@ -120,7 +120,7 @@
             https://docs.docker.com/v17.12/docker-for-mac/install/
     * 1.4\. Ubuntu
     
-        * 1.4.1\. Follow the instruction for the link
+        * 1.4.1\. Follow the instruction from the link
         
             https://docs.docker.com/v17.12/install/linux/docker-ce/ubuntu/
             
