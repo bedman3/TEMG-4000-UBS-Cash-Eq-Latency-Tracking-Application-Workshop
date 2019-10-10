@@ -118,7 +118,7 @@
             > * VirtualBox prior to version 4.3.30 must NOT be installed (it is incompatible with Docker for Mac). If you have a newer version of VirtualBox installed, it’s fine.
         
             https://docs.docker.com/v17.12/docker-for-mac/install/
-    *1.4\. Ubuntu
+    * 1.4\. Ubuntu
     
         * 1.4.1\. Follow the instruction for the link
         
