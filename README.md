@@ -152,6 +152,6 @@
         
         Now go to your browser and enter `localhost:8000`, you should see a splunk login page, the username is `admin` and the password is the one you just chose : `<password>`.
         
-* 3\. Now you are good to go to work on the project on Splunk!
+* 3\. Now you are good to go to work on Splunk!
         
         
